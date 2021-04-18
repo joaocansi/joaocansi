@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<p align="center">A passionate fullstack developer from Brazil</p>
 
 - 🌱 I’m currently learning **React and Node**
 
