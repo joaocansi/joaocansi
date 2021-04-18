@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
 <p align="center">A passionate fullstack developer from Brazil</p>
+<p></p>
 
 - 📖 Majoring in Information Systems at UVA (Veiga de Almeida University)
 
