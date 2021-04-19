@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <p>
-  I'm João Guilherme, 17 years old and I love programming. My first programming language was Java, but nowadays, I have studied React and Node using Typescript.
+  I'm João Guilherme, a 17 years old web developer. My first programming language was Java, but nowadays, I have studied React and Node using Typescript.
 </p>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocansi/)](https://www.linkedin.com/in/joaocansi/)
