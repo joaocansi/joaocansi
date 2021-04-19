@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João Guilherme</h1>
-<p align="center">A passionate fullstack developer from Brazil</p>
+<h1 align="center">Hi 👋</h1>
+<p align="center">I'm João Guilherme and a passionate fullstack developer from Brazil</p>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocansi/)](https://www.linkedin.com/in/joaocansi/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaocansi/)](https://www.instagram.com/joaocansi/)
