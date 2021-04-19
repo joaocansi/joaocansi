@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Guilherme</h1>
 <p align="center">A passionate fullstack developer from Brazil</p>
 <br />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocansi/)](https://www.linkedin.com/in/joaocansi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaocansi/)](https://www.instagram.com/joaocansi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitshs2003@gmail.com)](mailto:whitshs2003@gmail.com)
