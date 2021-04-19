@@ -9,3 +9,11 @@
 - 📫 How to reach me **whitshs2003@gmail.com**
 
 - ⚡ Fun fact **I like instruments**
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocansi&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/anajuliabit)
