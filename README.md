@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **React and Node**
 
-- 📫 How to reach me **whitshs2003@gmail.com**
-
 - ⚡ Fun fact **I like instruments**
 
 - <details>
