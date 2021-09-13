@@ -8,7 +8,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitshs2003@gmail.com)](mailto:whitshs2003@gmail.com)
   
  <br />
-
 - 🌱 I’m currently learning **React and Node**
 
 - ⚡ Fun fact **I like instruments**
