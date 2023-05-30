@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <p>
-  Here's me, undergraduate student and also doing a research. I've been programming since I was fourteen. A huge fan of innovation including Artificial Intelligence (yeah, I kinda like math sometimes)
+  Here's me, undergraduate student and also doing a research. I've been programming since I was fourteen. A huge fan of innovation including Artificial Intelligence
 </p>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocansi/)](https://www.linkedin.com/in/joaocansi/)
