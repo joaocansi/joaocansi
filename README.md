@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm João Guiherme 👋
 
 I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm an avid gamer who enjoys diving into virtual worlds and even creates Minecraft plugins to enhance my gaming experiences. 
 
@@ -10,7 +10,7 @@ But that's not all – I'm also deeply passionate about the realms of deep learn
 - [Any other topic you're currently studying or interested in.]
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile Link](LinkedIn Link)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [@joaocansi](https://linkedin.com/in/joaocansi)
+- Email: [joaocansii@gmail.com](mailto:joaocansii@gmail.com)
 
 Feel free to reach out if you'd like to connect or collaborate on exciting tech projects. I'm always open to new opportunities and discussions!
