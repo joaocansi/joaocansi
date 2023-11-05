@@ -7,7 +7,6 @@ But that's not all – I'm also deeply passionate about the realms of deep learn
 ## 🌱 I'm Currently Learning
 - Deep learning techniques and frameworks.
 - Advanced web development tools and practices.
-- [Any other topic you're currently studying or interested in.]
 
 ## 📫 Get in Touch
 - LinkedIn: [@joaocansi](https://linkedin.com/in/joaocansi)
