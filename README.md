@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <p>
-  I'm an undergraduate student. I've been programming since I was fourteen. A huge fan of innovation including Artificial Intelligence
+  I'm an undergraduate student majoring in Information Systems. I find great joy in playing games, and I take it a step further by creating Minecraft plugins to enhance my gaming experience. My true passion lies in deep learning and web development, where I explore both the backend and frontend, driven by my love for technology and its endless possibilities.
 </p>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocansi/)](https://www.linkedin.com/in/joaocansi/)
