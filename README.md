@@ -1,10 +1,11 @@
 # Hi, I'm João Guiherme 👋
 
-I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development and deep learning. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time.
+I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development, deep learning and weirdly regex. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time. 
 
 ## 🌱 I'm Currently Learning
 - Deep learning techniques and frameworks.
 - Advanced web development tools and practices.
+- Some kind of Regex (my chubby baby <3)
 - A bit of Spring
 
 ## 📫 Get in Touch
