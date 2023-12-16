@@ -1,6 +1,6 @@
 # Hi, I'm João Guiherme 👋
 
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Spider_JE4_BE3.png/revision/latest?cb=20200108012105" />
+<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Spider_JE4_BE3.png/revision/latest?cb=20200108012105" width="300px" />
 
 I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development, deep learning and weirdly regex. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time. 
 
