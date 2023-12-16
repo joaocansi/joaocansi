@@ -1,9 +1,6 @@
 # Hi, I'm João Guiherme 👋
 
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Steve_%28Minecraft%29.png" alt="Your Image" style="width: 200px; height: auto;">
-  <p style="margin-left: 20px;">I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development, deep learning and weirdly regex. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time. </p>
-</div>
+I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development, deep learning and weirdly regex. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time. 
 
 ## 🌱 I'm Currently Learning
 - Deep learning techniques and frameworks.
