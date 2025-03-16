@@ -1,15 +1,20 @@
-# Hi, I'm João Guiherme 👋
+# Hi, I'm João Guilherme 👋
 
-I'm a undergraduate student majoring in Information Systems. My passion lies in the intersection of technology and creativity. I'm passionate about web development, deep learning and weirdly regex. I explore both the backend and frontend of web applications. I'm also a huge fan of games such as Minecraft and I love creating plugins for servers in my break time. 
+I'm an undergraduate student majoring in Information Systems. My passion lies at the intersection of technology and creativity. I explore both frontend and backend development, always aiming to create efficient and scalable applications. Additionally, I have a deep interest in deep learning and regex (yes, I love regex!).
 
-## 🌱 I'm Currently Learning
-- Deep learning techniques and frameworks.
-- Advanced web development tools and practices.
-- Some kind of Regex (my chubby baby <3)
-- A bit of Spring
+## 🚀 What I Do
+- Web development (full-stack)
+- Deep learning research and applications
+- Building Minecraft plugins in my free time
+
+## 🌱 Currently Learning
+- Advanced deep learning techniques
+- Cutting-edge web development tools and frameworks
+- Spring framework for backend development
+- More regex magic
 
 ## 📫 Get in Touch
 - LinkedIn: [@joaocansi](https://linkedin.com/in/joaocansi)
 - Email: [joaocansii@gmail.com](mailto:joaocansii@gmail.com)
 
-Feel free to reach out if you'd like to connect or collaborate on exciting tech projects. I'm always open to new opportunities and discussions!
+I'm always open to discussions, collaborations, and exciting tech projects. Let's connect!
