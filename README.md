@@ -4,11 +4,10 @@ I'm an undergraduate student majoring in Information Systems. My passion lies at
 
 ## 🚀 What I Do
 - Web development (full-stack)
-- Deep learning research and applications
 - Building Minecraft plugins in my free time
 
 ## 🌱 Currently Learning
-- Advanced deep learning techniques
+- Deep learning
 - Cutting-edge web development tools and frameworks
 - Spring framework for backend development
 - More regex magic
