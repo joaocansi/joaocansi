@@ -16,4 +16,4 @@ I'm an undergraduate student majoring in Information Systems. My passion lies at
 - LinkedIn: [@joaocansi](https://linkedin.com/in/joaocansi)
 - Email: [joaocansii@gmail.com](mailto:joaocansii@gmail.com)
 
-I'm always open to discussions, collaborations, and exciting tech projects. Let's connect!
+I'm always open for discussions, collaborations, and exciting tech projects. Let's connect!
