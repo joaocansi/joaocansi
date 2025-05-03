@@ -1,6 +1,6 @@
 # Hi, I'm João Guilherme 👋
 
-I'm an undergraduate student majoring in Information Systems. My passion lies at the intersection of technology and creativity. I explore both frontend and backend development, always aiming to create efficient and scalable applications. Additionally, I have a deep interest in deep learning and regex (yes, I love regex!).
+I'm an undergraduate student majoring in Information Systems. My passion lies at the intersection of technology and creativity. I explore both frontend and backend development, always aiming to create efficient and scalable applications. 
 
 ## 🚀 What I Do
 - Web development (full-stack)
