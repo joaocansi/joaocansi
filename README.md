@@ -9,7 +9,8 @@ I'm an undergraduate student majoring in Information Systems. My passion lies at
 ## 🌱 Currently Learning
 - Deep learning
 - Cutting-edge web development tools and frameworks
-- Spring framework for backend development
+- Spring framework or Node.js for backend development
+- Next.js for frontend development
 - More regex magic
 
 ## 📫 Get in Touch
